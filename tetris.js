@@ -212,6 +212,7 @@ function update(time = 0){
             dropCounter = 0;
             arenaSweep();
             playerReset();
+	    player.score += 10;
             updateScore();
         }
     }
