@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+#tetris{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p{
+    text-align: center;
+}
+
+#score{
+    text-align: center
+}
+
+header{
+    padding: 10px 0 10px 0;
+}
+
+body{
+    margin: 0;
+    background-color: yellow;
+}
